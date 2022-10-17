@@ -1,0 +1,50 @@
+/* CSS RESET */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    
+}
+
+.search {
+    display: block;
+    margin-top: 20px;
+    border-radius: 50px;
+    height: 35px;
+    width: 200px;
+    border-color: rgb(36, 158, 158);
+    color: rgb(36, 158, 158);
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.plus {
+    display: block;
+    background-color: rgb(29, 175, 243);
+    color: white;
+    border-radius: 50px;
+    border: none;
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 45px;
+    height: 45px;
+    font-size: 30px;
+    align-items: center;
+}
+
+.create_acc {
+    display: block;
+    background-color: blue;
+    color: white;
+    margin-left: 100px;
+    box-shadow: black 3px 3px;
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    margin-top: 20px;
+    border-width: 2px;
+    border-color: black;
+}
